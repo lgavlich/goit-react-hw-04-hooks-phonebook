@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.inputFilter {
+  width: 200px;
+}
+
+.title {
+  font-weight: bold;
+}
